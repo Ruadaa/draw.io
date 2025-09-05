@@ -42,6 +42,13 @@
     "title": "PMOS_1"
   },
   {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=stencil(zVbRboMgFP0aXhsF7fq62W1P2x76BczSSapggK3b349CTSoqQ6vJEmPCuXAO99wLClAmC1wTAKMCoC2AcB3plx4yXBGLvL687SwmleBHcqJ7dZlMWUEEVTZ6slhiCNAjiO41eH5QlnPGSK4oZ7IVuYprbkyZailvLXGtNSqiiLDoZYPfdhTb0U8rBuDTGJ3daJ14ks5zgE7UzmeVTlJ6CFFarWEapoYyjQwVEWXvOD9+CP7J9r17lPiLeFKo8bmdOoEmXHGzutce5K13w1BSdsUQ342gMIl3NmjQgaRRduCC+Nwwh2guP5xsYm+7BBmS/NFxfYYsk5vTnfGEYjsU6YRiL5Nb4pzz8ak5DFMq7xr8Xyvvb8kge2agaL6Mi9gjiFT63vDOyJUnPG8BEGx3BpzQXJub+9PdxSaEIi+59PngK9OBluWgkWZp53I3qP2HMsAv);pointerEvents=1;strokeWidth=2;fillColor=#000000;rounded=0;sketch=0;fillStyle=auto;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"30\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 30.000000000000004,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "PMOS"
+  },
+  {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=stencil(zVVdT8MgFP01vJoWtkUftW5v6oO/ABmzZC00gE7/vQzWZLRAStMlJk0TzoVz7j2XD4AqVeOOAljUAD0DCDeF+Zkhxy11yOvL27vDlJbiSE9sry+TGa+pZNpFTw5DlgBtQfFowPOHKiI4p0QzwZUXuYobbsy49pQrR9wZjZZqKh16SfDHjUo3+vViAO5ydLbZOuUsnacJOoVfz906rISMN7uYraj6wOT4KcUX3wfzU/ibJtLv8LnBo0AfboVdHUwYJTvQMzSMXzGU6wwKW/goQYtGikbVQUiacsNu66X8GFRTRhqYYcgqSRE25Da19a2ZctrCpQ0YFnAH/ht3hvt4Rm0De9Kdn0TR3+c3sUdSpc3ZSs4gOhFetgHwwXdvle8evPcpkhd9hGIzIwvSCJXyIdWmA2uaqJF26egCtKh7+S3wBw==);pointerEvents=1;strokeWidth=2;fillColor=#000000;rounded=0;sketch=0;fillStyle=auto;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"20\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 20,
     "h": 40,
@@ -273,12 +280,6 @@
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry y=\"5.684341886080802e-14\" width=\"30.620000000000005\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=stencil(zVbRboMgFP0aXhsF7fq62W1P2x76BczSSapggK3b349CTSoqQ6vJEmPCuXAO99wLClAmC1wTAKMCoC2AcB3plx4yXBGLvL687SwmleBHcqJ7dZlMWUEEVTZ6slhiCNAjiO41eH5QlnPGSK4oZ7IVuYprbkyZailvLXGtNSqiiLDoZYPfdhTb0U8rBuDTGJ3daJ14ks5zgE7UzmeVTlJ6CFFarWEapoYyjQwVEWXvOD9+CP7J9r17lPiLeFKo8bmdOoEmXHGzutce5K13w1BSdsUQ342gMIl3NmjQgaRRduCC+Nwwh2guP5xsYm+7BBmS/NFxfYYsk5vTnfGEYjsU6YRiL5Nb4pzz8ak5DFMq7xr8Xyvvb8kge2agaL6Mi9gjiFT63vDOyJUnPG8BEGx3BpzQXJub+9PdxSaEIi+59PngK9OBluWgkWZp53I3qP2HMsAv);pointerEvents=1;strokeWidth=2;fillColor=#000000;rounded=0;sketch=0;fillStyle=auto;flipH=1;direction=east;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.6200000000000045\" width=\"30\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"endArrow=none;html=1;rounded=0;exitX=0.625;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;\" edge=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"19.889999999999986\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"11.25\" y=\"19.889999999999986\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 30.620000000000005,
-    "h": 40,
-    "aspect": "fixed"
-  },
-  {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=stencil(zVbRboMgFP0aXhsF7fq62W1P2x76BczSSapggK3b349CTSoqQ6vJEmPCuXAO99wLClAmC1wTAKMCoC2AcB3plx4yXBGLvL687SwmleBHcqJ7dZlMWUEEVTZ6slhiCNAjiO41eH5QlnPGSK4oZ7IVuYprbkyZailvLXGtNSqiiLDoZYPfdhTb0U8rBuDTGJ3daJ14ks5zgE7UzmeVTlJ6CFFarWEapoYyjQwVEWXvOD9+CP7J9r17lPiLeFKo8bmdOoEmXHGzutce5K13w1BSdsUQ342gMIl3NmjQgaRRduCC+Nwwh2guP5xsYm+7BBmS/NFxfYYsk5vTnfGEYjsU6YRiL5Nb4pzz8ak5DFMq7xr8Xyvvb8kge2agaL6Mi9gjiFT63vDOyJUnPG8BEGx3BpzQXJub+9PdxSaEIi+59PngK9OBluWgkWZp53I3qP2HMsAv);pointerEvents=1;strokeWidth=2;fillColor=#000000;rounded=0;sketch=0;fillStyle=auto;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"30\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 30.000000000000004,
     "h": 40,
     "aspect": "fixed"
   }
