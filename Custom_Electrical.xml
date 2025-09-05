@@ -28,11 +28,18 @@
     "title": "NMOS"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=stencil(zVbRboMgFP0aXhsF7fq62W1P2x76BczSSapggK3b349CTSoqQ6vJEmPCuXAO99wLClAmC1wTAKMCoC2AcB3plx4yXBGLvL687SwmleBHcqJ7dZlMWUEEVTZ6slhiCNAjiO41eH5QlnPGSK4oZ7IVuYprbkyZailvLXGtNSqiiLDoZYPfdhTb0U8rBuDTGJ3daJ14ks5zgE7UzmeVTlJ6CFFarWEapoYyjQwVEWXvOD9+CP7J9r17lPiLeFKo8bmdOoEmXHGzutce5K13w1BSdsUQ342gMIl3NmjQgaRRduCC+Nwwh2guP5xsYm+7BBmS/NFxfYYsk5vTnfGEYjsU6YRiL5Nb4pzz8ak5DFMq7xr8Xyvvb8kge2agaL6Mi9gjiFT63vDOyJUnPG8BEGx3BpzQXJub+9PdxSaEIi+59PngK9OBluWgkWZp53I3qP2HMsAv);pointerEvents=1;strokeWidth=2;fillColor=#000000;rounded=0;sketch=0;fillStyle=auto;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"30\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 30,
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=stencil(zVbdboMgGH0abhsF7Xq72W1X2y76BMzSSapggK3b249CTSoqQ6vJEmPC+fQcvnM+fwDKZIFrAmBUALQFEK4jfdJLhitikdeXt53FpBL8SE50ry4XU1YQQZWtniyWGAL0CKJ7DZ4PlOWcMZIryplsVa7qmhtTplrKW0tca42KKCIsetngt13FdvXTqgH4NEZnN1onnqTzHKATtftZpZOUHkKUVmuYhqmhTCNDIaLsHefHD8E/2b53jxJ/EU8LNT6PU6fQlCtu7u61B3nzbhhKyq4Y4rsRFKbxzgYNOtA0yg5cEJ8b5iGayw+nm9g7LkGGJH9MXJ8hy/TmTGc8IWyHIp0Q9jK9Jc5zPr41h2FK8q7B/zV5/0gG2TMDRfNlXMQeQaTS7w3vFbnylOcNACVt9+B499Dm5gDcXWxCKPKSS58PvpgOtCwHjTS3dl7uBrX/UAb4BQ==);pointerEvents=1;strokeWidth=2;fillColor=#000000;rounded=0;sketch=0;fillStyle=auto;flipH=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"30\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 30.000000000000004,
     "h": 40,
     "aspect": "fixed",
-    "title": "PMOS"
+    "title": "NMOS_1"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=stencil(zVbRboMgFP0aXhsF7fq62W1P2x76BczSSapggK3b349CTSoqQ6vJEmPCuXAO99wLClAmC1wTAKMCoC2AcB3plx4yXBGLvL687SwmleBHcqJ7dZlMWUEEVTZ6slhiCNAjiO41eH5QlnPGSK4oZ7IVuYprbkyZailvLXGtNSqiiLDoZYPfdhTb0U8rBuDTGJ3daJ14ks5zgE7UzmeVTlJ6CFFarWEapoYyjQwVEWXvOD9+CP7J9r17lPiLeFKo8bmdOoEmXHGzutce5K13w1BSdsUQ342gMIl3NmjQgaRRduCC+Nwwh2guP5xsYm+7BBmS/NFxfYYsk5vTnfGEYjsU6YRiL5Nb4pzz8ak5DFMq7xr8Xyvvb8kge2agaL6Mi9gjiFT63vDOyJUnPG8BEGx3BpzQXJub+9PdxSaEIi+59PngK9OBluWgkWZp53I3qP2HMsAv);pointerEvents=1;strokeWidth=2;fillColor=#000000;rounded=0;sketch=0;fillStyle=auto;flipH=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"30\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 30.000000000000004,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "PMOS_1"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=stencil(zVVdT8MgFP01vJoWtkUftW5v6oO/ABmzZC00gE7/vQzWZLRAStMlJk0TzoVz7j2XD4AqVeOOAljUAD0DCDeF+Zkhxy11yOvL27vDlJbiSE9sry+TGa+pZNpFTw5DlgBtQfFowPOHKiI4p0QzwZUXuYobbsy49pQrR9wZjZZqKh16SfDHjUo3+vViAO5ydLbZOuUsnacJOoVfz906rISMN7uYraj6wOT4KcUX3wfzU/ibJtLv8LnBo0AfboVdHUwYJTvQMzSMXzGU6wwKW/goQYtGikbVQUiacsNu66X8GFRTRhqYYcgqSRE25Da19a2ZctrCpQ0YFnAH/ht3hvt4Rm0De9Kdn0TR3+c3sUdSpc3ZSs4gOhFetgHwwXdvle8evPcpkhd9hGIzIwvSCJXyIdWmA2uaqJF26egCtKh7+S3wBw==);pointerEvents=1;strokeWidth=2;fillColor=#000000;rounded=0;sketch=0;fillStyle=auto;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"20\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
